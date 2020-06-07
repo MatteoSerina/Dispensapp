@@ -1,0 +1,61 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "type": "Acqua",
+            "stock": "14"
+        },
+        {
+            "id": "2",
+            "type": "Detersivo chiari",
+            "stock": "2"
+        },
+        {
+            "id": "9",
+            "type": "pane",
+            "stock": "8"
+        },
+        {
+            "id": "3",
+            "type": "Sgrassatore",
+            "stock": "1"
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "barcode": "1111111111",
+            "catId": "1",
+            "type": "Acqua",
+            "items": "6"
+        },
+        {
+            "id": "2",
+            "barcode": "2222222222",
+            "catId": "2",
+            "type": "Detersivo chiari",
+            "items": "1"
+        },
+        {
+            "id": "8",
+            "barcode": "456789",
+            "catId": "9",
+            "type": "pane",
+            "items": "99"
+        },
+        {
+            "id": "3",
+            "barcode": "3333333333",
+            "catId": "3",
+            "type": "Sgrassatore",
+            "items": "2"
+        },
+        {
+            "id": "4",
+            "barcode": "3111111111",
+            "catId": "3",
+            "type": "Sgrassatore",
+            "items": "1"
+        }
+    ]
+}
